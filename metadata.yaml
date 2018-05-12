@@ -1,0 +1,39 @@
+_repo: Discourse-on-Floating-Bodies_37729
+_version: 0.1.0
+alternative_title: A Discourse Presented to the Most Serene Don Cosimo II., Great
+  Duke of Tuscany, Concerning the Natation of Bodies Upon, and Submersion In, the
+  Water.
+contributor:
+  translator:
+    agent_name: Salusbury, Thomas
+    gutenberg_agent_id: '39015'
+    url: http://www.gutenberg.org/2009/agents/39015
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Galilei, Galileo
+    aliases:
+    - Galileo
+    - Galilei, G. (Galileo)
+    birthdate: 1564
+    deathdate: 1642
+    gutenberg_agent_id: '39014'
+    url: http://www.gutenberg.org/2009/agents/39014
+description: ''
+gutenberg_issued: '2011-10-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37729'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Specific gravity'
+- !lcsh 'Hydrostatics'
+- !lcc 'QC'
+title: A Discourse Presented to the Most Serene Don Cosimo II., Great Duke of Tuscany,
+  Concerning the Natation of Bodies Vpon, and Submersion In, the Water.
+url: http://www.gutenberg.org/ebooks/37729
